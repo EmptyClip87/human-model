@@ -2,7 +2,7 @@
 
 namespace app\Services;
 
-class NervousSystem
+class RenalSysService
 {
 
 }
